@@ -1,6 +1,13 @@
-# Hi there, I'm Paris Parker 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/ParisAParker/ParisAParker/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Paris and I like Data" src="images/personal_note.svg" />
+  <br />
+  <br />
 
-## About Me
+</div>
 
 I'm a data scientist with a passion for extracting insights from data and building predictive models. I specialize in machine learning, statistical analysis, and data visualization. I enjoy working with large datasets and turning data into actionable insights.
 
