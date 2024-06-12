@@ -11,6 +11,44 @@
 
 I'm a data scientist with a passion for extracting insights from data and building predictive models. I specialize in machine learning, statistical analysis, and data visualization. I enjoy working with large datasets and turning data into actionable insights.
 
+<!-- Linked In -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/parisaparker/">
+<strong>Visit my LinkedIn </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="LinkedIn" height="80" src="images/LinkedIn_Icon.jpg">
+</a>
+</p>
+
+</td>
+
+<td align="center">
+<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+</div>
+
 ## Skills
 
 - **Languages:** Python, R, SQL
