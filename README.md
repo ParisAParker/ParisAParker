@@ -23,7 +23,7 @@ I'm a data scientist with a passion for extracting insights from data and buildi
 
 <p>
 
-<img alt="LinkedIn" height="80" src="images/LinkedIn_Icon.jpg">
+<img alt="LinkedIn" height="80" src="images/Linkedin_Icon.jpg">
 </a>
 </p>
 
