@@ -33,7 +33,7 @@ I'm a data scientist with a passion for extracting insights from data and buildi
 
 ## Skills
 
-- **Languages:** Python, R, SQL
+- **Programming Languages:** Python, R, SQL
 - **Tools & Frameworks:** Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook, VSCode, Streamlit
 - **Techniques:** Machine Learning, Natural Language Processing, Data Wrangling, Data Visualization, Statistical Analysis
 
